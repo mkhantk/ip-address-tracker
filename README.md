@@ -2,6 +2,8 @@
 
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+# Note: the Geolocation api seems to be out of credit. So, until further notice, the website won't be able to show your ip address. I'll come back with another api instance. Thanks.
+
 ## Table of contents
 
 - [Overview](#overview)
